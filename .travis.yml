@@ -10,3 +10,6 @@ script:
   - vendor/bin/phpunit
 deploy:
   provider: azure_web_apps
+  username: MatiasRJaime
+  password: maraja96
+  site: https://perrosmatias.azurewebsites.net/
