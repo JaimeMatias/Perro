@@ -8,7 +8,12 @@ before_script:
 
 script:
   - vendor/bin/phpunit
+  before_deploy:
+  - cd build
+
 deploy:
+    skip_cleanup: true
+  verbose: true
   provider: azure_web_apps
   username: MatiasRJaime
   password: maraja96
