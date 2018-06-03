@@ -11,7 +11,7 @@
 
 <body>
   <header>
-    <h1>LA HISTORIA DE LAS RAZAS</h1>
+    <h1>LA HISTORIA DE LAS RAZAS Perrunas</h1>
     <nav>
       <ul class="nav">
         <li><a href="akita_inu.html">AKITA INU</a></li>
