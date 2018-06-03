@@ -1,0 +1,5 @@
+deploy:
+  provider: azure_web_apps
+  username: "matias.raul.jaime@ca.frre.utn.edu.ar"
+  password: "Microi5lolita"
+  site: "https://perrosjaime.azurewebsites.net/"
