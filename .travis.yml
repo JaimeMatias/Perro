@@ -1,5 +1,7 @@
 deploy:
+  skip_cleanup: true
+
   provider: azure_web_apps
-  username: "matias.raul.jaime@ca.frre.utn.edu.ar"
-  password: "Microi5lolita"
-  site: "https://perrosjaime.azurewebsites.net/"
+  username: "MatiasRJaime"
+  password: "maraja96"
+  site: "https://perrosmatias.azurewebsites.net/"
