@@ -1,5 +1,4 @@
 deploy:
-
   provider: azure_web_apps
   username: "MatiasRJaime"
   password: "maraja96"
