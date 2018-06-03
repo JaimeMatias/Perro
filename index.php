@@ -12,7 +12,7 @@
 
 <body>
   <header>
-    <h1>LA HISTORIA DE LAS RAZAS PERRUNAS </h1>
+    <h1>LA HISTORIA DE LAS RAZAS PERRUNAS /h1>
     <nav>
       <ul class="nav">
 
