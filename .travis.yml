@@ -13,7 +13,7 @@ script:
 
 deploy:
     skip_cleanup: true
-  verbose: true
+   verbose: true
   provider: azure_web_apps
   username: MatiasRJaime
   password: maraja96
