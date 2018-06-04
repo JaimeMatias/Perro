@@ -14,7 +14,6 @@ script:
 deploy:
     skip_cleanup: true
    verbose: true
-  provider: azure_web_apps
-  username: MatiasRJaime
-  password: maraja96
-  site: https://perrosmatias.azurewebsites.net/
+  provider: heroku
+  api_key:
+    secure: "315f090b-ac15-4a3a-9d07-e74629df2c86"
