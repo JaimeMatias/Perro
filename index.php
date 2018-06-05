@@ -12,7 +12,7 @@
 
 <body>
   <header>
-    <h1>LA HISTORIA DE LAS RAZAS</h1>
+    <h1>LA HISTORIA DE LAS RAZAS   PERROS</h1>
     <nav>
       <ul class="nav">
 
